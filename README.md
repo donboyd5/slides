@@ -1,4 +1,8 @@
 # slides
+- [PSL Demo Day: Constructing 50-state weights for the PUF that sum to national weights, July 12, 2021](https://github.com/donboyd5/slides/blob/master/2021-07-12_Boyd_PSL_Demo_Constructing_State_Tax_Weights_For_PUF.pdf)
+- [Ravitch Fiscal Reporting Program, Craig Newmark Graduate School of Journalism: The Public Pensions Crisis, June 9, 2021](https://github.com/donboyd5/slides/blob/master/2021-06-09_Boyd_CUNY_Ravitch_Fiscal_Journalism_Public_Pensions_Crisis_Primer.pdf)
+- [Ravitch Fiscal Reporting Program, Craig Newmark Graduate School of Journalism: The Public Pensions Crisis, January 13, 2021](https://github.com/donboyd5/slides/blob/master/2021-01-13_Boyd_CUNY_Ravitch_Fiscal_Journalism_Public_Pensions_Crisis_Primer.pdf)
+- [National Conference of State Legislatures: Public Pension Management Tools in Action, October 29, 2020](https://github.com/donboyd5/slides/blob/master/2020-10-29_Boyd_NCSL_Pension_Cost_Sharing.pdf)
 - [Montana Legislature: Population Aging and State Taxes, January 16, 2020](https://github.com/donboyd5/slides/blob/master/2020-01-16_Boyd_MT_MARA_PopulationAgingAndStateTaxes_Final.pdf)
 - [Ravitch Fiscal Reporting Program: The Pension Crisis, January 8, 2020](https://github.com/donboyd5/slides/blob/master/2020-01-08_Boyd-CUNY%20Ravitch%20Fiscal%20Journalism%20Public%20Pensions%20Crisis%20Primer.pdf)
 - [Connecticut General Assembly: Changing Demographics and Tax Disrupters, December 6, 2019](https://github.com/donboyd5/slides/blob/master/2019-12-04_Boyd_CTGANonPartisanInsightsConference_DemographicsTaxDisrupters_Final.pdf)
